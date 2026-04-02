@@ -6,3 +6,5 @@ HEAD
 
 
 updating
+
+adding something to commit 
